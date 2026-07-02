@@ -5,6 +5,6 @@
   />
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=georgelev06&langs_count=4&disable_animations=true&theme=one_dark_pro"
-    height="190"
+    height="200"
   />
 </p>
